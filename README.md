@@ -17,11 +17,11 @@
 
 🔍 A MERN stack application using Google Books API that allows a user to login, search books and save favorites.
 
-**[Deployed Application](https://)**
+**[Deployed Application](https://cryptic-atoll-68895.herokuapp.com/)**
   
 💻 Below - screenshot of the application:
   
-![book-search-engine](https://github.com-Capture.PNG)
+![book-search-engine](client/public/Application.png)
 
 ## User Story
 
